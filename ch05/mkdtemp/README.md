@@ -1,0 +1,1 @@
+mkdtemp函数创建了一个目录，该目录有一个唯一的名字，由mkdtemp创建的目录使用下列访问权限位集：S_IRUSR|S_IWUSR|S_IXUSR
